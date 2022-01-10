@@ -85,13 +85,13 @@ const AboutSection = styled.section`
 
  }
  & > div.cardWrapper{
-   border:1px solid red;
+  //  border:1px solid red;
    width:100%;
    display:flex;
    justify-content:space-between;
    height: fit-content;
    .text-about{
-       border:1px solid red;
+      //  border:1px solid red;
     h1{
            font-family: Roboto;
           font-style: normal;
