@@ -17,7 +17,7 @@ const QuickInfoSection = () => {
       <AboutSection>
         <h1>ABOUT</h1>
         <div className='cardWrapper'>
-          <div><img src='images/Group.svg' /></div>
+          <div><img src='images/Group.svg' alt='group' /></div>
           <div className='text-about'>
             <h1>LEADING THE WORLD
               TOWARD UNBIASED
