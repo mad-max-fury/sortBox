@@ -96,18 +96,18 @@ const AboutSection = styled.section`
            font-family: Roboto;
           font-style: normal;
      font-weight: bold;
-   font-size: 36px;
-   line-height: 56px;
+        font-size: 36px;
+       line-height: 56px;
 
-   color: #1F2D51;
+      color: #1F2D51;
     }
     p{
         font-family: Roboto;
-font-style: normal;
-font-weight: normal;
-font-size: 20px;
-line-height: 40px;
-width: 294px;
+        font-style: normal;
+      font-weight: normal;
+      font-size: 20px;
+      line-height: 40px;
+      width: 90%;
 
 color: ${colors.grey_text};
     }
